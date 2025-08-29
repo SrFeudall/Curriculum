@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Currículo - Eric Alves</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f9;
+      color: #333;
+    }
+    header {
+      background: #2c3e50;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 5px 0;
+    }
+    header p {
+      font-size: 14px;
+    }
+    main {
+      max-width: 900px;
+      margin: 20px auto;
+      padding: 20px;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    section {
+      margin-bottom: 20px;
+    }
+    section h2 {
+      color: #2c3e50;
+      border-bottom: 2px solid #2c3e50;
+      padding-bottom: 5px;
+      margin-bottom: 10px;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    ul li {
+      margin-bottom: 8px;
+    }
+    footer {
+      text-align: center;
+      padding: 15px;
+      background: #2c3e50;
+      color: white;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Eric Alves</h1>
+    <p>Email: seuemail@email.com | Telefone: (11) 99999-9999 | São Paulo - SP</p>
+    <p><a href="https://www.linkedin.com/" style="color: #1abc9c; text-decoration: none;">LinkedIn</a> | 
+       <a href="https://github.com/" style="color: #1abc9c; text-decoration: none;">GitHub</a></p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Resumo Profissional</h2>
+      <p>Profissional de TI com experiência em suporte técnico, atendimento remoto, implantação de sistemas e manutenção de infraestrutura. Atuação em delegacias, penitenciárias, prefeituras e mais de 45 unidades do Poupatempo. Conhecimentos em redes, nuvem, Windows, Office, ITSM e Active Directory.</p>
+    </section>
+
+    <section>
+      <h2>Experiência Profissional</h2>
+      <ul>
+        <li><b>Prodesp</b> – Técnico de Suporte (2020 – Atual)<br>
+          - Atendimento de chamados via ITSM com acesso remoto.<br>
+          - Instalação e configuração de softwares.<br>
+          - Diagnóstico de lentidão e travamentos em sistema de coleta biométrica.<br>
+          - Implantação e manutenção de sistemas em delegacias, penitenciárias e prefeituras.<br>
+          - Treinamento e orientação para atendentes do sistema biométrico.</li>
+        <li><b>Poupatempo</b> – Técnico de Suporte<br>
+          - Implantação de estações de trabalho em mais de 45 unidades.<br>
+          - Configuração de micros e redes.<br>
+          - Apoio e treinamento a usuários finais.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Formação Acadêmica</h2>
+      <ul>
+        <li>Análise e Desenvolvimento de Sistemas – Conclusão prevista: 2º semestre de 2026</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Competências</h2>
+      <ul>
+        <li>Suporte técnico em Windows e Office</li>
+        <li>Active Directory (AD)</li>
+        <li>ITSM – atendimento de chamados</li>
+        <li>Redes de computadores</li>
+        <li>Noções de Power BI</li>
+        <li>Implantação e configuração de sistemas</li>
+        <li>Treinamento e orientação de usuários</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 - Eric Alves
+  </footer>
+
+</body>
+</html>
